@@ -1,6 +1,6 @@
 ## Hi there 👋 This is FRC Team 6940 Violet Z
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Team6940.Team6940)
+![Total Visitors](https://visitor-badge.glitch.me/badge?page_id=Team6940.Team6940)
 
 <!--
 
