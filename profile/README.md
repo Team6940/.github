@@ -2,6 +2,15 @@
 
 ![Total Visitors](https://visitor-badge.glitch.me/badge?page_id=Team6940.Team6940)
 
+>Who we are and what we do?
+
+We are a high-school robotics team from No.2 High School Of East China Normal University Zizhu Campus. We attend FRC(First Robotics Competition)
+
+>How to join us?
+
+We are not a public organization now so if you want to join us , you must be a student in the No.2 High School Of East China Normal University Zizhu Campus first. Then you can choose to join the FRC club! What's more, if you want to become a mentor in our team, you should contact our mentor [William_Guo](https://github.com/williamguowei) for further information!
+
+> 
 <!--
 
 **Here are some ideas to get you started:**
