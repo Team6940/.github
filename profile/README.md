@@ -2,7 +2,7 @@
 
 ![Total Visitors](https://visitor-badge.glitch.me/badge?page_id=Team6940.Team6940)
 
->Who we are and what we do?
+>Who are we and what we do?
 
 We are a high-school robotics team from No.2 High School Of East China Normal University Zizhu Campus that gives students opportunities to experience real world engineering through competitive robotics. We attend FRC(FIRST Robotics Competition)
 
